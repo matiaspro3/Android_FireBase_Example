@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EjemploFireBase</string>
+    <string name="txtBtnSend">txtBtnSend</string>
+</resources>
